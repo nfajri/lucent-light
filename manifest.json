@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Lucent Light",
+    "description": "Cool-toned Vibrant Visuals with blue skies, balanced contrast, and subtle reflections.",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 80]
+  },
+  "modules": [
+    {
+      "description": "Lucent Light Resources",
+      "type": "resources",
+      "uuid": "f0e1d2c3-b4a5-6789-0fed-cba987654321",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["pbr"]
+}
