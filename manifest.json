@@ -5,7 +5,7 @@
     "description": "Cool-toned Vibrant Visuals with blue skies, balanced contrast, and subtle reflections.",
     "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 80]
+    "min_engine_version": [1, 21, 120]
   },
   "modules": [
     {
